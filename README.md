@@ -154,4 +154,4 @@ g++ -std=c++11 Soal4.cpp -o Soal4
 
 Video berisi penjelasan mengenai keempat program, struktur data dan algoritma yang digunakan, serta contoh hasil eksekusi program.
 
-**Link YouTube:** [Masukkan link video YouTube di sini]
+**Link YouTube:** (https://youtu.be/V_-eSqVXgaQ?si=zYUxnl-lG--LpECd)
